@@ -3,7 +3,7 @@
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning Compitative Programming.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Linkdin(https://www.linkedin.com/in/amit-kumar-pandey-9494a7218/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BlWLoQOwWQr67oXsPHkUkXg%3D%3D),
+- 📫 How to reach me Linkdin(https://www.linkedin.com/in/amit-kumar-pandey-9494a7218),
 HackerRank(https://www.hackerrank.com/amitkumar_pande1?hr_r=1)
 
 <!---
