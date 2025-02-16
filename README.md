@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @AmitCode
+- 👋 Hi, Amit Kumar Pandey.
+- I am currently working as a Software Engineer(Java Full Stack Developer) at Servosys Solutions pvt ltd.
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning Compitative Programming.
 - 💞️ I’m looking to collaborate on ...
